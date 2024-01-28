@@ -51,6 +51,6 @@ Table, Lambda Function, SNS subscription etc.
 
 Remember to tear this down, run:
 
-    ```txt
-    $ cdk destroy
-    ```
+```txt
+$ cdk destroy
+```
